@@ -15,15 +15,14 @@
 <p><strong>Crafting software with a designer's mindset.</strong></p>
 
 <p>
-<sub>Build practical apps.</sub><br />
-<sub>Design clean interfaces.</sub><br />
-<sub>Improve every day.</sub>
+<sub>Building practical desktop applications with clean code and thoughtful design.</sub><br />
+<sub>Focused on .NET desktop development while improving UI/UX and creative skills.</sub>
 </p>
 
 <br />
 
 <p>
-<code>C#</code> · <code>.NET</code> · <code>WinForms</code> · <code>SQL Server</code> · <code>UI Design</code> · <code>Video Editing</code>
+<code>C#</code> &nbsp;·&nbsp; <code>.NET</code> &nbsp;·&nbsp; <code>WinForms</code> &nbsp;·&nbsp; <code>SQL Server</code>
 </p>
 
 <br />
@@ -35,17 +34,16 @@
 
 ## About
 
-- IT Student
-- Desktop Application Developer
-- UI Design Enthusiast
-- Video Editor
+I'm an IT student focused on building desktop business applications with C# and .NET.
+
+Besides programming, I enjoy designing clean interfaces and creating visual content through graphic design and video editing.
 
 <br />
 <br />
 
 ## Developer.cs
 
-<br />
+A quick overview of how I describe myself as a developer.
 
 ```csharp
 public class Nguyen
@@ -72,7 +70,7 @@ public class Nguyen
 
 ### Milk Tea Shop Management System
 
-A practical desktop app for products, invoices, employees, inventory, and reports.
+A desktop management app for products, invoices, employees, inventory, and reports.
 
 <sub>C# &nbsp;·&nbsp; WinForms &nbsp;·&nbsp; SQL Server &nbsp;·&nbsp; RDLC ReportViewer</sub>
 
