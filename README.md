@@ -1,70 +1,87 @@
 <div align="center">
 
-<p><code>dotnet run --profile nguyen</code></p>
+<br />
+
+<p><samp>HELLO, I'M</samp></p>
 
 <h1>Nguyên</h1>
 
 <p><strong>Junior C# Developer</strong></p>
-<p><samp>Build practical software. Keep the code clean.</samp></p>
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&amp;logo=csharp&amp;logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/WinForms-68217A?style=flat-square&amp;logo=windows&amp;logoColor=white" alt="WinForms" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL Server" />
-</p>
+<p>I build practical desktop applications with .NET.</p>
+
+<br />
+
+<p><samp>Learning. &nbsp; Building. &nbsp; Improving.</samp></p>
+
+<br />
 
 </div>
 
-## About Me
+## 01 — About
 
-- IT student focused on building practical software.
-- Passionate about desktop development with **C# and WinForms**.
-- Currently building a **Milk Tea Shop Management System**.
-- Learning by shipping projects and improving one feature at a time.
+- 🎓 IT student.
+- 💻 Building desktop applications with C# and WinForms.
+- 🧋 Currently developing a Milk Tea Shop Management System.
+- 🌱 Learning through projects, one improvement at a time.
 
-## Code Identity
+### `Developer.cs`
 
 ```csharp
 public sealed class Developer
 {
     public string Name => "Nguyên";
     public string Role => "Junior C# Developer";
-    public string[] Stack => ["C#", "WinForms", "SQL Server", ".NET"];
+    public string Focus => ".NET Desktop";
     public string Motto => "Build simple. Think clean.";
 }
 ```
 
-## Tech Stack
+<br />
 
-<p>
-  <img src="https://img.shields.io/badge/Backend-512BD4?style=flat-square" alt="Backend" />
-  <code>C#</code> · <code>.NET</code> · <code>WinForms</code>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Database-CC2927?style=flat-square" alt="Database" />
-  <code>SQL Server</code>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Frontend-0078D4?style=flat-square" alt="Frontend" />
-  <code>HTML</code> · <code>CSS</code>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Tools-5C2D91?style=flat-square" alt="Tools" />
-  <code>Visual Studio</code> · <code>Git</code> · <code>GitHub</code>
-</p>
+## 02 — Tech
 
-## Featured Project
+<div align="center">
+
+<p><sub>BACKEND / DESKTOP</sub></p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,windows" alt="C#, .NET and WinForms" />
+<p><sub>C# · .NET · WinForms</sub></p>
+
+<br />
+
+<p><sub>DATABASE</sub></p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" alt="SQL Server" />
+<p><sub>SQL Server</sub></p>
+
+<br />
+
+<p><sub>FRONTEND</sub></p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript" alt="HTML, CSS and JavaScript" />
+<p><sub>HTML · CSS · JavaScript</sub></p>
+
+<br />
+
+<p><sub>TOOLS</sub></p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,git,github" alt="Visual Studio, Git and GitHub" />
+<p><sub>Visual Studio · Git · GitHub</sub></p>
+
+</div>
+
+<br />
+
+## 03 — Featured Project
 
 ### Milk Tea Shop Management System
 
-> A desktop application designed to make daily milk tea shop operations easier to manage.
+> A practical desktop application for managing everyday milk tea shop operations.
 >
-> **Stack:** `C#` · `.NET` · `WinForms` · `SQL Server` · `RDLC`
+> **Built with:** `C#` · `.NET` · `WinForms` · `SQL Server` · `RDLC`
 >
-> **Core:** Product management, sales workflow, store data, and business reports.
+> **What it does:** Keeps products, sales, store data, and reports in one place.
 
-## GitHub Stats
+<br />
+
+## 04 — GitHub
 
 <div align="center">
 
@@ -73,14 +90,18 @@ public sealed class Developer
 
 </div>
 
-## Contact
+<br />
 
-<!-- Replace the placeholders below with your real contact details. -->
-
-- **Email:** `your.email@example.com`
-- **Portfolio:** `https://your-portfolio.example`
+## 05 — Contact
 
 <div align="center">
+
+<!-- Replace the email placeholder with your real address. -->
+
+<p><samp>Email — your.email@example.com</samp></p>
+<p><samp>Portfolio — Coming soon</samp></p>
+
+<br />
 
 <sub>Clean code. Practical products. Continuous learning.</sub>
 
