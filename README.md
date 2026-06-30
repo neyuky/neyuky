@@ -1,20 +1,28 @@
 <div align="center">
 
+<br />
+
 <h1>Hi, I'm Nguyên</h1>
 
-<h3>Junior .NET Developer</h3>
+<h2>Junior .NET Developer</h2>
+
+<br />
 
 <p><strong>Crafting software with a designer's mindset.</strong></p>
 
 <p>
-Build practical apps.<br />
-Design clean interfaces.<br />
-Improve every day.
+<sub>Build practical apps.</sub><br />
+<sub>Design clean interfaces.</sub><br />
+<sub>Improve every day.</sub>
 </p>
+
+<br />
 
 <p>
 <code>C#</code> · <code>.NET</code> · <code>WinForms</code> · <code>SQL Server</code> · <code>UI Design</code> · <code>Video Editing</code>
 </p>
+
+<br />
 
 </div>
 
@@ -30,6 +38,8 @@ Improve every day.
 <br />
 
 ## Developer.cs
+
+<br />
 
 ```csharp
 public class Nguyen
@@ -55,22 +65,21 @@ public class Nguyen
 
 ### Milk Tea Shop Management System
 
-A desktop application for managing milk tea shop products, invoices, employees, inventory, and reports.
+A desktop app for managing products, invoices, employees, inventory, and reports.
 
-**Tech** &nbsp; `C#` · `WinForms` · `SQL Server` · `RDLC ReportViewer`
+<sub>C# &nbsp;·&nbsp; WinForms &nbsp;·&nbsp; SQL Server &nbsp;·&nbsp; RDLC ReportViewer</sub>
 
-**Repository** &nbsp; Coming Soon
+**Repository** &nbsp; <kbd>Coming Soon</kbd>
 
 <br />
 
 ## Tech Stack
 
-<div align="center">
-
-<code>C#</code> · <code>.NET</code> · <code>WinForms</code> · <code>SQL Server</code> · <code>HTML</code> · <code>CSS</code> · <code>JavaScript</code><br />
-<code>Git</code> · <code>GitHub</code> · <code>Visual Studio</code> · <code>VS Code</code> · <code>Figma</code> · <code>Photoshop</code> · <code>Premiere Pro</code>
-
-</div>
+**Languages** &nbsp; `C#` · `HTML` · `CSS` · `JavaScript`<br />
+**Framework** &nbsp; `.NET` · `WinForms`<br />
+**Database** &nbsp; `SQL Server`<br />
+**Creative** &nbsp; `Figma` · `Photoshop` · `Premiere Pro`<br />
+**Tools** &nbsp; `Visual Studio` · `VS Code` · `Git` · `GitHub`
 
 <br />
 
@@ -78,6 +87,7 @@ A desktop application for managing milk tea shop products, invoices, employees, 
 
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neyuky&amp;theme=transparent" alt="Nguyên's GitHub stats" />
+  &nbsp;
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neyuky&amp;theme=transparent" alt="Nguyên's top languages" />
 </div>
 
@@ -91,5 +101,5 @@ A desktop application for managing milk tea shop products, invoices, employees, 
 <br />
 
 <div align="center">
-  <sub>Build. Design. Improve.</sub>
+  <sub>Build.</sub>&nbsp;&nbsp;&nbsp; <sub>Design.</sub>&nbsp;&nbsp;&nbsp; <sub>Improve.</sub>
 </div>
