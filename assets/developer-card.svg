@@ -1,0 +1,47 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="code-bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="1" stop-color="#081225"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="520" rx="22" fill="url(#code-bg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="519" rx="21.5" stroke="#1E293B"/>
+  <rect x="1" y="1" width="1198" height="62" rx="21" fill="#0B1220"/>
+  <path d="M1 63H1199" stroke="#1E293B"/>
+  <circle cx="34" cy="32" r="6" fill="#F87171"/>
+  <circle cx="57" cy="32" r="6" fill="#FBBF24"/>
+  <circle cx="80" cy="32" r="6" fill="#34D399"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="104" y="37" fill="#94A3B8" font-size="13" font-weight="600">Nguyen.cs</text>
+    <text x="1105" y="37" fill="#475569" font-size="11" font-weight="600" letter-spacing="1.5">C#</text>
+  </g>
+
+  <g font-family="Cascadia Code, Consolas, monospace" font-size="15">
+    <g fill="#475569" text-anchor="end">
+      <text x="67" y="105">01</text><text x="67" y="135">02</text><text x="67" y="165">03</text>
+      <text x="67" y="195">04</text><text x="67" y="225">05</text><text x="67" y="255">06</text>
+      <text x="67" y="285">07</text><text x="67" y="315">08</text><text x="67" y="345">09</text>
+      <text x="67" y="375">10</text><text x="67" y="405">11</text><text x="67" y="435">12</text>
+      <text x="67" y="465">13</text><text x="67" y="495">14</text>
+    </g>
+    <path d="M89 79V496" stroke="#172033"/>
+
+    <text x="112" y="105"><tspan fill="#C084FC">public class</tspan><tspan fill="#E2E8F0"> Nguyen</tspan></text>
+    <text x="112" y="135" fill="#E2E8F0">{</text>
+    <text x="140" y="165"><tspan fill="#C084FC">public string</tspan><tspan fill="#7DD3FC"> Role</tspan><tspan fill="#E2E8F0"> =&gt; </tspan><tspan fill="#86EFAC">"Junior .NET Developer"</tspan><tspan fill="#E2E8F0">;</tspan></text>
+    <text x="140" y="195"><tspan fill="#C084FC">public string</tspan><tspan fill="#7DD3FC"> Focus</tspan><tspan fill="#E2E8F0"> =&gt; </tspan><tspan fill="#86EFAC">"Desktop Application"</tspan><tspan fill="#E2E8F0">;</tspan></text>
+    <text x="140" y="225"><tspan fill="#C084FC">public string[]</tspan><tspan fill="#7DD3FC"> Skills</tspan><tspan fill="#E2E8F0"> =&gt;</tspan></text>
+    <text x="140" y="255" fill="#E2E8F0">[</text>
+    <text x="168" y="285" fill="#86EFAC">"Code",</text>
+    <text x="168" y="315" fill="#86EFAC">"Design",</text>
+    <text x="168" y="345" fill="#86EFAC">"Edit"</text>
+    <text x="140" y="375" fill="#E2E8F0">];</text>
+    <text x="140" y="405"><tspan fill="#C084FC">public string</tspan><tspan fill="#7DD3FC"> Mindset</tspan><tspan fill="#E2E8F0"> =&gt; </tspan><tspan fill="#86EFAC">"Build. Design. Improve."</tspan><tspan fill="#E2E8F0">;</tspan></text>
+    <text x="112" y="435" fill="#E2E8F0">}</text>
+  </g>
+
+  <rect x="112" y="474" width="132" height="3" rx="1.5" fill="#2563EB"/>
+  <rect x="252" y="474" width="48" height="3" rx="1.5" fill="#1E293B"/>
+</svg>

@@ -1,0 +1,75 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="hero-bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.58" stop-color="#071126"/>
+      <stop offset="1" stop-color="#050816"/>
+    </linearGradient>
+    <radialGradient id="hero-glow" cx="0" cy="0" r="1" gradientTransform="translate(600 250) rotate(90) scale(360 590)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB" stop-opacity="0.28"/>
+      <stop offset="0.55" stop-color="#2563EB" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hero-line" x1="310" y1="0" x2="890" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="hero-grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#3B82F6" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="520" rx="24" fill="url(#hero-bg)"/>
+  <rect width="1200" height="520" rx="24" fill="url(#hero-glow)"/>
+  <rect width="1200" height="520" rx="24" fill="url(#hero-grid)"/>
+  <rect x="0.5" y="0.5" width="1199" height="519" rx="23.5" stroke="#1E293B"/>
+  <path d="M310 99H890" stroke="url(#hero-line)"/>
+  <circle cx="600" cy="99" r="4" fill="#3B82F6"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="64" fill="#94A3B8" font-size="12" font-weight="650" letter-spacing="3">DEVELOPER / DESIGN-AWARE</text>
+    <text x="600" y="190" fill="#FFFFFF" font-size="76" font-weight="750" letter-spacing="-3">NGUYÊN</text>
+    <text x="600" y="235" fill="#3B82F6" font-size="20" font-weight="700" letter-spacing="2">JUNIOR .NET DEVELOPER</text>
+    <text x="600" y="292" fill="#FFFFFF" font-size="27" font-weight="550">Crafting software with a designer's mindset.</text>
+    <text x="600" y="326" fill="#94A3B8" font-size="15">Code clean. Design simple. Improve daily.</text>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="650" text-anchor="middle">
+    <g transform="translate(272 354)">
+      <rect width="74" height="30" rx="15" fill="#0B1730" stroke="#1E3A63"/>
+      <text x="37" y="19" fill="#A8CFFF">C#</text>
+    </g>
+    <g transform="translate(356 354)">
+      <rect width="74" height="30" rx="15" fill="#0B1730" stroke="#1E3A63"/>
+      <text x="37" y="19" fill="#A8CFFF">.NET</text>
+    </g>
+    <g transform="translate(440 354)">
+      <rect width="92" height="30" rx="15" fill="#0B1730" stroke="#1E3A63"/>
+      <text x="46" y="19" fill="#A8CFFF">WinForms</text>
+    </g>
+    <g transform="translate(542 354)">
+      <rect width="104" height="30" rx="15" fill="#0B1730" stroke="#1E3A63"/>
+      <text x="52" y="19" fill="#A8CFFF">SQL Server</text>
+    </g>
+    <g transform="translate(656 354)">
+      <rect width="92" height="30" rx="15" fill="#0B1730" stroke="#1E3A63"/>
+      <text x="46" y="19" fill="#A8CFFF">UI Design</text>
+    </g>
+    <g transform="translate(758 354)">
+      <rect width="116" height="30" rx="15" fill="#0B1730" stroke="#1E3A63"/>
+      <text x="58" y="19" fill="#A8CFFF">Video Editing</text>
+    </g>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle">
+    <g transform="translate(435 426)">
+      <rect width="154" height="44" rx="9" fill="#2563EB"/>
+      <text x="77" y="27" fill="#FFFFFF" letter-spacing="1">VIEW PROFILE</text>
+    </g>
+    <g transform="translate(611 426)">
+      <rect x="0.5" y="0.5" width="153" height="43" rx="8.5" fill="#081020" stroke="#334155"/>
+      <text x="77" y="27" fill="#CBD5E1" letter-spacing="1">EXPLORE WORK</text>
+    </g>
+  </g>
+</svg>

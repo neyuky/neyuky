@@ -1,16 +1,10 @@
 <div align="center">
-  <img src="./assets/background.svg" width="100%" alt="Blue and black abstract header" />
-
-  <h1>NGUYÊN</h1>
-  <h3>Junior .NET Developer</h3>
-
-  <p><strong>Crafting software with a designer's mindset.</strong></p>
-  <p><sub>Code clean. Design simple. Improve daily.</sub></p>
-
-  <p>
-    <code>C#</code>&nbsp; <code>.NET</code>&nbsp; <code>WinForms</code>&nbsp;
-    <code>SQL Server</code>&nbsp; <code>UI Design</code>&nbsp; <code>Video Editing</code>
-  </p>
+  <a href="https://github.com/neyuky">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
+      <img src="./assets/hero.svg" width="100%" alt="Nguyên — Junior .NET Developer. Crafting software with a designer's mindset." />
+    </picture>
+  </a>
 </div>
 
 <br />
@@ -28,23 +22,12 @@
 
 ## Developer Identity
 
-```csharp
-public class Nguyen
-{
-    public string Role => "Junior .NET Developer";
-
-    public string Focus => "Desktop Application";
-
-    public string[] Skills =>
-    [
-        "Code",
-        "Design",
-        "Edit"
-    ];
-
-    public string Mindset => "Build. Design. Improve.";
-}
-```
+<div align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/developer-card-mobile.svg" />
+    <img src="./assets/developer-card.svg" width="100%" alt="C# developer identity card for Nguyên" />
+  </picture>
+</div>
 
 <br />
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -52,29 +35,23 @@ public class Nguyen
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,figma,ps,pr,visualstudio,vscode,git,github&amp;perline=13" alt="Technology and creative tools" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/tech-stack-mobile.svg" />
+    <img src="./assets/tech-stack.svg" width="100%" alt="Nguyên's development and creative technology stack" />
+  </picture>
 </div>
-
-<br />
-
-**Languages** &nbsp; C#, SQL, HTML, CSS, JavaScript<br />
-**Framework** &nbsp; .NET, WinForms, Bootstrap<br />
-**Database** &nbsp; SQL Server<br />
-**Creative** &nbsp; Photoshop, Premiere Pro, Figma<br />
-**Tools** &nbsp; Visual Studio, VS Code, Git, GitHub
 
 <br />
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Featured Project
 
-### Milk Tea Shop Management System
-
-> A desktop application for managing milk tea shop products, invoices, employees, inventory, and reports.
-
-**Built with** &nbsp; `C#` · `WinForms` · `SQL Server` · `RDLC ReportViewer`
-
-**View Repository** &nbsp; `Coming Soon`
+<div align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/project-card-mobile.svg" />
+    <img src="./assets/project-card.svg" width="100%" alt="Milk Tea Shop Management System desktop application" />
+  </picture>
+</div>
 
 <br />
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -91,12 +68,12 @@ public class Nguyen
 
 ## Contact
 
-**Email** &nbsp; updating...<br />
-**Portfolio** &nbsp; Coming Soon<br />
-**Facebook** &nbsp; Coming Soon
+**Email** &nbsp; Not publicly listed<br />
+**Portfolio** &nbsp; [GitHub Profile](https://github.com/neyuky)<br />
+**Facebook** &nbsp; Not publicly listed
 
 <br />
 
 <div align="center">
-  <sub>Build. Design. Improve.</sub>
+  <strong>Build.</strong>&nbsp;&nbsp;&nbsp; <strong>Design.</strong>&nbsp;&nbsp;&nbsp; <strong>Improve.</strong>
 </div>
