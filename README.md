@@ -1,108 +1,102 @@
 <div align="center">
+  <img src="./assets/background.svg" width="100%" alt="Blue and black abstract header" />
 
-<br />
+  <h1>NGUYÊN</h1>
+  <h3>Junior .NET Developer</h3>
 
-<p><samp>HELLO, I'M</samp></p>
+  <p><strong>Crafting software with a designer's mindset.</strong></p>
+  <p><sub>Code clean. Design simple. Improve daily.</sub></p>
 
-<h1>Nguyên</h1>
-
-<p><strong>Junior C# Developer</strong></p>
-
-<p>I build practical desktop applications with .NET.</p>
-
-<br />
-
-<p><samp>Learning. &nbsp; Building. &nbsp; Improving.</samp></p>
-
-<br />
-
+  <p>
+    <code>C#</code>&nbsp; <code>.NET</code>&nbsp; <code>WinForms</code>&nbsp;
+    <code>SQL Server</code>&nbsp; <code>UI Design</code>&nbsp; <code>Video Editing</code>
+  </p>
 </div>
 
-## 01 — About
+<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-- 🎓 IT student.
-- 💻 Building desktop applications with C# and WinForms.
-- 🧋 Currently developing a Milk Tea Shop Management System.
-- 🌱 Learning through projects, one improvement at a time.
+## About
 
-### `Developer.cs`
+- IT Student
+- Desktop Application Developer
+- UI Design Enthusiast
+- Video Editor
+
+<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## Developer Identity
 
 ```csharp
-public sealed class Developer
+public class Nguyen
 {
-    public string Name => "Nguyên";
-    public string Role => "Junior C# Developer";
-    public string Focus => ".NET Desktop";
-    public string Motto => "Build simple. Think clean.";
+    public string Role => "Junior .NET Developer";
+
+    public string Focus => "Desktop Application";
+
+    public string[] Skills =>
+    [
+        "Code",
+        "Design",
+        "Edit"
+    ];
+
+    public string Mindset => "Build. Design. Improve.";
 }
 ```
 
 <br />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 02 — Tech
+## Tech Stack
 
 <div align="center">
-
-<p><sub>BACKEND / DESKTOP</sub></p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,windows" alt="C#, .NET and WinForms" />
-<p><sub>C# · .NET · WinForms</sub></p>
-
-<br />
-
-<p><sub>DATABASE</sub></p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" alt="SQL Server" />
-<p><sub>SQL Server</sub></p>
-
-<br />
-
-<p><sub>FRONTEND</sub></p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript" alt="HTML, CSS and JavaScript" />
-<p><sub>HTML · CSS · JavaScript</sub></p>
-
-<br />
-
-<p><sub>TOOLS</sub></p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,git,github" alt="Visual Studio, Git and GitHub" />
-<p><sub>Visual Studio · Git · GitHub</sub></p>
-
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,figma,ps,pr,visualstudio,vscode,git,github&amp;perline=13" alt="Technology and creative tools" />
 </div>
 
 <br />
 
-## 03 — Featured Project
+**Languages** &nbsp; C#, SQL, HTML, CSS, JavaScript<br />
+**Framework** &nbsp; .NET, WinForms, Bootstrap<br />
+**Database** &nbsp; SQL Server<br />
+**Creative** &nbsp; Photoshop, Premiere Pro, Figma<br />
+**Tools** &nbsp; Visual Studio, VS Code, Git, GitHub
+
+<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## Featured Project
 
 ### Milk Tea Shop Management System
 
-> A practical desktop application for managing everyday milk tea shop operations.
->
-> **Built with:** `C#` · `.NET` · `WinForms` · `SQL Server` · `RDLC`
->
-> **What it does:** Keeps products, sales, store data, and reports in one place.
+> A desktop application for managing milk tea shop products, invoices, employees, inventory, and reports.
+
+**Built with** &nbsp; `C#` · `WinForms` · `SQL Server` · `RDLC ReportViewer`
+
+**View Repository** &nbsp; `Coming Soon`
 
 <br />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 04 — GitHub
+## GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neyuky&amp;theme=github_dark" alt="Nguyên's GitHub stats" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neyuky&amp;theme=github_dark" alt="Nguyên's top languages" />
-
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neyuky&amp;theme=github_dark" alt="Nguyên's GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neyuky&amp;theme=github_dark" alt="Nguyên's top languages" />
 </div>
 
 <br />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 05 — Contact
+## Contact
 
-<div align="center">
-
-<!-- Replace the email placeholder with your real address. -->
-
-<p><samp>Email — your.email@example.com</samp></p>
-<p><samp>Portfolio — Coming soon</samp></p>
+**Email** &nbsp; updating...<br />
+**Portfolio** &nbsp; Coming Soon<br />
+**Facebook** &nbsp; Coming Soon
 
 <br />
 
-<sub>Clean code. Practical products. Continuous learning.</sub>
-
+<div align="center">
+  <sub>Build. Design. Improve.</sub>
 </div>
