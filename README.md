@@ -2,9 +2,13 @@
 
 <br />
 
-<h1>Hi, I'm Nguyên</h1>
+<p><sub>HI, I'M</sub></p>
 
-<h2>Junior .NET Developer</h2>
+<h1>NGUYÊN</h1>
+
+<br />
+
+<h3>Junior .NET Developer</h3>
 
 <br />
 
@@ -27,6 +31,7 @@
 </div>
 
 <br />
+<br />
 
 ## About
 
@@ -35,6 +40,7 @@
 - UI Design Enthusiast
 - Video Editor
 
+<br />
 <br />
 
 ## Developer.cs
@@ -60,17 +66,19 @@ public class Nguyen
 ```
 
 <br />
+<br />
 
-## Featured Project
+## Projects
 
 ### Milk Tea Shop Management System
 
-A desktop app for managing products, invoices, employees, inventory, and reports.
+A practical desktop app for managing products, invoices, employees, inventory, and reports.
 
 <sub>C# &nbsp;·&nbsp; WinForms &nbsp;·&nbsp; SQL Server &nbsp;·&nbsp; RDLC ReportViewer</sub>
 
 **Repository** &nbsp; <kbd>Coming Soon</kbd>
 
+<br />
 <br />
 
 ## Tech Stack
@@ -132,14 +140,17 @@ A desktop app for managing products, invoices, employees, inventory, and reports
 </div>
 
 <br />
+<br />
 
 ## Contact
 
 **Email:** updating...<br />
-**Portfolio:** Coming Soon
+**Portfolio:** Coming Soon<br />
+**GitHub:** [github.com/neyuky](https://github.com/neyuky)
 
+<br />
 <br />
 
 <div align="center">
-  <sub>Build.</sub>&nbsp;&nbsp;&nbsp; <sub>Design.</sub>&nbsp;&nbsp;&nbsp; <sub>Improve.</sub>
+  <sub>Build. &nbsp;&nbsp; Design. &nbsp;&nbsp; Improve.</sub>
 </div>
